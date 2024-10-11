@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1728617115732" clover="3.2.0">
+  <project timestamp="1728617115732" name="All files">
+    <metrics statements="66" coveredstatements="61" conditionals="14" coveredconditionals="10" methods="21" coveredmethods="18" elements="101" coveredelements="89" complexity="0" loc="66" ncloc="66" packages="6" files="11" classes="11"/>
+    <package name="components.atoms">
+      <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="Button.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\atoms\Button.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="Icon.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\atoms\Icon.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+      <file name="Input.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\atoms\Input.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="Label.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\atoms\Label.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="FormGroup.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\molecules\FormGroup.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="Modal.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\molecules\Modal.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="ModalHeader.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\molecules\ModalHeader.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="DashboardItem.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\organisms\DashboardItem.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="502" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.templates">
+      <metrics statements="17" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="4"/>
+      <file name="Dashboard.jsx" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\components\templates\Dashboard.jsx">
+        <metrics statements="17" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="4"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="41" count="500" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.dashboard">
+      <metrics statements="9" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="commentService.js" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\features\dashboard\commentService.js">
+        <metrics statements="9" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="useAuth.js" path="C:\Users\Usuario\Desktop\outbuild\react-dashboard\src\hooks\useAuth.js">
+        <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="7" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
